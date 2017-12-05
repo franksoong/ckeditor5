@@ -4,8 +4,8 @@
   "dependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "ckeditor/ckeditor5-adapter-ckfinder",
     "@ckeditor/ckeditor5-autoformat": "ckeditor/ckeditor5-autoformat#t/engine/1186",
-    "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles",
-    "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote",
+    "@ckeditor/ckeditor5-basic-styles": "ckeditor/ckeditor5-basic-styles#t/engine/1186",
+    "@ckeditor/ckeditor5-block-quote": "ckeditor/ckeditor5-block-quote#t/engine/1186",
     "@ckeditor/ckeditor5-build-balloon": "ckeditor/ckeditor5-build-balloon",
     "@ckeditor/ckeditor5-build-classic": "ckeditor/ckeditor5-build-classic",
     "@ckeditor/ckeditor5-build-inline": "ckeditor/ckeditor5-build-inline",
@@ -31,7 +31,7 @@
     "@ckeditor/ckeditor5-undo": "ckeditor/ckeditor5-undo#t/engine/1186",
     "@ckeditor/ckeditor5-upload": "ckeditor/ckeditor5-upload",
     "@ckeditor/ckeditor5-utils": "ckeditor/ckeditor5-utils",
-    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget"
+    "@ckeditor/ckeditor5-widget": "ckeditor/ckeditor5-widget#t/engine/1186"
   }
 }
 
