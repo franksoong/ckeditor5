@@ -23,7 +23,7 @@
     "@ckeditor/ckeditor5-image": "ckeditor/ckeditor5-image#t/engine/1186",
     "@ckeditor/ckeditor5-link": "ckeditor/ckeditor5-link#t/engine/1186",
     "@ckeditor/ckeditor5-list": "ckeditor/ckeditor5-list#t/engine/1186",
-    "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm",
+    "@ckeditor/ckeditor5-markdown-gfm": "ckeditor/ckeditor5-markdown-gfm#t/engine/1186",
     "@ckeditor/ckeditor5-paragraph": "ckeditor/ckeditor5-paragraph#t/engine/1186",
     "@ckeditor/ckeditor5-theme-lark": "ckeditor/ckeditor5-theme-lark",
     "@ckeditor/ckeditor5-typing": "ckeditor/ckeditor5-typing#t/engine/1186",
